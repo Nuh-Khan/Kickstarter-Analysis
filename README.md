@@ -29,4 +29,4 @@ The main conclusion from outcomes based on goals would be that campaigns with go
 When breaking down this data set into "plays" category it produced a small subset of data. When looking at the higher $ goal campaigns it was clear there was a lack of data which can cause the data to skew. In the 45000 to 49999 range there was only a single campaign, with such limited data it is difficult to see if the $ range was the reason for success or failure.
 - What are some other possible tables and/or graphs that we could create?
 
-We looked at outcomes based on launch date and goals, instead we could look at average donation or number of people that backed the campaign. We could create line charts and pivot tables just like we did with the others.
+We looked at outcomes based on launch date and goals, instead we could look at average donation or the deadline for the campaign. We could create line charts and pivot tables just like we did for goals and launch date. Additionally we could look at other categorys of campaigns like musicals to see how they compare to plays.
