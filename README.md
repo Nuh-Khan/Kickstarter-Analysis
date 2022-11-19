@@ -7,7 +7,7 @@ The purpose of this project is to assist a client (Louise) in deciding if or whe
 ## Analysis and Challenges
 To create a palatable view of the project it was broken down into two main deliverables, outcomes based on launch date and outcomes based on goals.
 ### Analysis of Outcomes Based on Launch Date
-The purpose of this analysis was to look at outcomes from the parent category of "theater" campaigns which was then further broken down into a subcategory of "plays", these were then filtered by year and month the campaigns started in. To achieve this, a pivot table was created to look at the "theater" category, the start month/year of every campaign, and the outcomes of the campaigns. The pivot table was filtered for "parent category" and "years", launch date for rows, and "outcomes" for values and columns. Once the pivot table was complete, it was used to create a line chart to visually show the outcomes based on which month the campaign began.
+The purpose of this analysis was to look at outcomes from the category of "theater" campaigns which was then further broken down into a subcategory of "plays", these were then filtered by year and month that the campaigns began. To achieve this, I created a pivot table that looked at "theater" category, the start month/year of every campaign, and the outcomes of the campaigns. The pivot table was filtered for "parent category" and "years", launch date for rows, and "outcomes" for values and columns. Once the pivot table was complete, it was used to create a line chart to visually show the outcomes based on which month the campaign began.
 ![Theater_outcomes_vs_launch.png](resources/Theater_outcomes_vs_launch.png)
 
 ### Analysis of Outcomes Based on Goals
