@@ -1,4 +1,23 @@
-# An Analysis of Kickstarter Campaigns
-Analysing Kickstarter crowdfunding campaigns to determine viability of project.
-## Overview of project
-Looking at the Kickstarter data we wanted to determine the viability of a theater play Kickstater campaign. First by taking all of the Kickstarter data then breaking it into catogoreys and subcatogoreys. Further we broke the data down into country and by start and end date of the campaigns. Then by filtering the data for the country (US) and subcatogory (plays) further analysis was able to be conducted. The data was broken down into visualization models and tables.
+# Kickstarting with Excel
+
+## Overview of Project
+This project demonstrates the capability of Excel to analyze data and uncover trends relating to Kickstarter campaign data.
+### Purpose
+The purpose of this project is to assist a client (Louise) in deciding if or when to start a crowdfunding Kickstarter campaign for her play Fever.
+## Analysis and Challenges
+
+### Analysis of Outcomes Based on Launch Date
+
+### Analysis of Outcomes Based on Goals
+
+### Challenges and Difficulties Encountered
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
+- What can you conclude about the Outcomes based on Goals?
+
+- What are some limitations of this dataset?
+
+- What are some other possible tables and/or graphs that we could create?
