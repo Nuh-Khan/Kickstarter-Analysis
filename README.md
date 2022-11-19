@@ -22,9 +22,11 @@ While creating this analysis I ran into a couple difficulties. Firstly while cre
 The largest conclusion drawn from this analysis was that May and June are the best months to start a campaign. May and June both had very high success rates with low failure rates. Another conclusion is that October, November, and December were the worst months to start a campaign. October had an abnormal failure rate, November had the second lowest success rate. December had the lowest success rate which almost equaled its failure rate.
 - What can you conclude about the Outcomes based on Goals?
 
-The main conclusion from outcomes based on goals would be that campaigns with goals under $5000 are going to be the most successful. Campaigns under $5000 had an over 70% of success which beat out the higher $ goal campaigns which only had a 50% chance of success. 
+The main conclusion from outcomes based on goals would be that campaigns with goals under 5000 are going to be the most successful. Campaigns under 5000 had an over 70% of success which beat out the higher $ goal campaigns which only had a 50% chance of success. 
 
 - What are some limitations of this dataset?
 
-When breaking down this data set into "plays" category it produced a small subset of data. When looking at the higher $ goal campaigns it was clear there was a lack of data which can cause the data to skew. In the $45000-$49999 range there was only a single campaign, with such limited data it is difficult to see if the $ range was the reason for success or failure.
+When breaking down this data set into "plays" category it produced a small subset of data. When looking at the higher $ goal campaigns it was clear there was a lack of data which can cause the data to skew. In the 45000 to 49999 range there was only a single campaign, with such limited data it is difficult to see if the $ range was the reason for success or failure.
 - What are some other possible tables and/or graphs that we could create?
+
+We looked at outcomes based on launch date and goals, instead we could look at average donation or number of people that backed the campaign. We could create line charts and pivot tables just like we did with the others.
