@@ -11,7 +11,8 @@ The purpose of this analysis was to look at outcomes from the parent category of
 ![Theater_outcomes_vs_launch.png](resources/Theater_outcomes_vs_launch.png)
 
 ### Analysis of Outcomes Based on Goals
-
+To analyze the Outcomes of "Plays" campaigns based on goals several things were done. First I made a table to sort the goals into three categorys, successful, failed , and canceled. Then the COUNTIFS function was used to fill the table based on each dollar range. Additionally the SUM function was used to obtain a total number of campaigns based on dollar range. Next percentages were calculated using the existing table data. Finally using the table as a source, I made a line chart to visualize the table data.
+![Outcomes_vs_goals.png](resources/Outcomes_vs_goals.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
