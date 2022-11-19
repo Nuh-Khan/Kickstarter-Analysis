@@ -18,7 +18,7 @@ While creating this analysis I ran into a couple difficulties. Firstly while cre
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-
+The largest conclusion drawn from this analysis was that May and June are the best months to start a campaign. May and June both had very high success rates with low failure rates. Another conclusion is that October, November, and December were the worst months to start a campaign. October had an abnormal failure rate, November had the second lowest success rate. December had the lowest success rate which almost equaled its failure rate.
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
