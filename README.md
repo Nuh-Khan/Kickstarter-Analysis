@@ -14,7 +14,7 @@ The purpose of this analysis was to look at outcomes from the parent category of
 To analyze the Outcomes of "Plays" campaigns based on goals several things were done. First I made a table to sort the goals into three categorys, successful, failed , and canceled. Then the COUNTIFS function was used to fill the table based on each dollar range. Additionally the SUM function was used to obtain a total number of campaigns based on dollar range. Next percentages were calculated using the existing table data. Finally using the table as a source, I made a line chart to visualize the table data.
 ![Outcomes_vs_goals.png](resources/Outcomes_vs_goals.png)
 ### Challenges and Difficulties Encountered
-
+While creating this analysis I ran into a couple difficulties. Firstly while creating the pivot table for Outcomes Based on Launch Date I had issue filtering the pivot table by months rather then years. I was able to overcome this by googling and some trial and error. Additonally I ran into an issue when trying to create the data table for outcomes based on goals, my issue was with the COUNTIFS function. While attempting to add a range for the data based on specific dollar amounts I could not figure out how to add a range of numbers. I managed to overcome this through watching a video that explained how the function works. Finally getting the function to work the way I wanted was fulfilling. 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
